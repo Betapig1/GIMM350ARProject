@@ -912,8 +912,7 @@
         904,
         905,
         906,
-        907,
-        908
+        907
       ],
       "AllowUnexpectedOutput": true,
       "DebugActionIndex": 0
@@ -18010,20 +18009,6 @@
       "DebugActionIndex": 857
     },
     {
-      "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/icallsummary.txt",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "Library/Bee/artifacts/Android/ManagedStripped/icallsummary.txt"
-      ],
-      "Outputs": [
-        "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/icallsummary.txt"
-      ],
-      "ToBuildDependencies": [
-        11
-      ],
-      "DebugActionIndex": 858
-    },
-    {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/unity default resources",
       "ActionType": "CopyFiles",
       "Inputs": [
@@ -18032,7 +18017,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/unity default resources"
       ],
-      "DebugActionIndex": 859
+      "DebugActionIndex": 858
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/build.gradle_eqnd.info",
@@ -18043,7 +18028,7 @@
         "Library/Bee/artifacts/csharpactions/build.gradle_eqnd.info"
       ],
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 860
+      "DebugActionIndex": 859
     },
     {
       "Annotation": "ActionGenerateProjectFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/build.gradle (+6 others)",
@@ -18074,11 +18059,11 @@
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/gradle/wrapper/gradle-wrapper.properties"
       ],
       "ToBuildDependencies": [
-        860
+        859
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 861
+      "DebugActionIndex": 860
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/proguard-unity.txt",
@@ -18089,7 +18074,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/proguard-unity.txt"
       ],
-      "DebugActionIndex": 862
+      "DebugActionIndex": 861
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/java/com/unity3d/player/UnityPlayerActivity.java",
@@ -18100,7 +18085,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/java/com/unity3d/player/UnityPlayerActivity.java"
       ],
-      "DebugActionIndex": 863
+      "DebugActionIndex": 862
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar",
@@ -18111,7 +18096,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar"
       ],
-      "DebugActionIndex": 864
+      "DebugActionIndex": 863
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/ids.xml",
@@ -18122,7 +18107,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/ids.xml"
       ],
-      "DebugActionIndex": 865
+      "DebugActionIndex": 864
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/styles.xml",
@@ -18133,7 +18118,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/styles.xml"
       ],
-      "DebugActionIndex": 866
+      "DebugActionIndex": 865
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values-v21/styles.xml",
@@ -18144,7 +18129,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values-v21/styles.xml"
       ],
-      "DebugActionIndex": 867
+      "DebugActionIndex": 866
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values-v28/styles.xml",
@@ -18155,7 +18140,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values-v28/styles.xml"
       ],
-      "DebugActionIndex": 868
+      "DebugActionIndex": 867
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/styles.xml",
@@ -18166,7 +18151,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/styles.xml"
       ],
-      "DebugActionIndex": 869
+      "DebugActionIndex": 868
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v21/styles.xml",
@@ -18177,7 +18162,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v21/styles.xml"
       ],
-      "DebugActionIndex": 870
+      "DebugActionIndex": 869
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v28/styles.xml",
@@ -18188,7 +18173,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v28/styles.xml"
       ],
-      "DebugActionIndex": 871
+      "DebugActionIndex": 870
     },
     {
       "Annotation": "WriteText F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/strings.xml",
@@ -18199,7 +18184,7 @@
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/strings.xml"
       ],
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 872
+      "DebugActionIndex": 871
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/freeformwindow.xml",
@@ -18210,7 +18195,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/freeformwindow.xml"
       ],
-      "DebugActionIndex": 873
+      "DebugActionIndex": 872
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v30/freeformwindow.xml",
@@ -18221,7 +18206,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v30/freeformwindow.xml"
       ],
-      "DebugActionIndex": 874
+      "DebugActionIndex": 873
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml",
@@ -18232,7 +18217,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml"
       ],
-      "DebugActionIndex": 875
+      "DebugActionIndex": 874
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml",
@@ -18243,7 +18228,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
       ],
-      "DebugActionIndex": 876
+      "DebugActionIndex": 875
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon.png",
@@ -18254,7 +18239,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon.png"
       ],
-      "DebugActionIndex": 877
+      "DebugActionIndex": 876
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png",
@@ -18265,7 +18250,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png"
       ],
-      "DebugActionIndex": 878
+      "DebugActionIndex": 877
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png",
@@ -18276,7 +18261,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
       ],
-      "DebugActionIndex": 879
+      "DebugActionIndex": 878
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmain.so",
@@ -18287,7 +18272,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmain.so"
       ],
-      "DebugActionIndex": 880
+      "DebugActionIndex": 879
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libmain.so",
@@ -18298,7 +18283,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libmain.so"
       ],
-      "DebugActionIndex": 881
+      "DebugActionIndex": 880
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/LauncherManifestDiag.txt_zvqu.info",
@@ -18309,7 +18294,7 @@
         "Library/Bee/artifacts/csharpactions/LauncherManifestDiag.txt_zvqu.info"
       ],
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 882
+      "DebugActionIndex": 881
     },
     {
       "Annotation": "Generate Manifests Library/Bee/artifacts/Android/Manifest/LauncherManifestDiag.txt (+3 others)",
@@ -18381,11 +18366,11 @@
         56,
         58,
         60,
-        882
+        881
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 883
+      "DebugActionIndex": 882
     },
     {
       "Annotation": "ClassRegistrationGenerator F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/artifacts/Android/il2cppOutput/UnityClassRegistration.cpp",
@@ -18403,7 +18388,7 @@
         11
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 884
+      "DebugActionIndex": 883
     },
     {
       "Annotation": "Compile UnityClassRegistration Library/Bee/artifacts/Android/libunity/armeabi-v7a/UnityClassRegistration.o",
@@ -18417,10 +18402,10 @@
         "Library/Bee/artifacts/Android/libunity/armeabi-v7a/UnityClassRegistration.o"
       ],
       "ToBuildDependencies": [
-        884
+        883
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 885
+      "DebugActionIndex": 884
     },
     {
       "Annotation": "ICallRegistrationGenerator F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/artifacts/Android/il2cppOutput/UnityICallRegistration.cpp",
@@ -18446,7 +18431,7 @@
         11
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 886
+      "DebugActionIndex": 885
     },
     {
       "Annotation": "Compile UnityICallRegistration Library/Bee/artifacts/Android/libunity/armeabi-v7a/UnityICallRegistration.o",
@@ -18460,10 +18445,10 @@
         "Library/Bee/artifacts/Android/libunity/armeabi-v7a/UnityICallRegistration.o"
       ],
       "ToBuildDependencies": [
-        886
+        885
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 887
+      "DebugActionIndex": 886
     },
     {
       "Annotation": "Link libunity Library/Bee/artifacts/Android/libunity/armeabi-v7a/unstripped/libunity.so",
@@ -18480,11 +18465,11 @@
         "Library/Bee/artifacts/Android/libunity/armeabi-v7a/unstripped/libunity.so"
       ],
       "ToBuildDependencies": [
-        885,
-        887
+        884,
+        886
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 888
+      "DebugActionIndex": 887
     },
     {
       "Annotation": "Generate Library/Bee/artifacts/Android/libunity/armeabi-v7a/libunity.dbg.so from Library/Bee/artifacts/Android/libunity/armeabi-v7a/unstripped/libunity.so Library/Bee/artifacts/Android/libunity/armeabi-v7a/libunity.dbg.so",
@@ -18497,10 +18482,10 @@
         "Library/Bee/artifacts/Android/libunity/armeabi-v7a/libunity.dbg.so"
       ],
       "ToBuildDependencies": [
-        888
+        887
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 889
+      "DebugActionIndex": 888
     },
     {
       "Annotation": "Generate Library/Bee/artifacts/Android/libunity/armeabi-v7a/libunity.sym.so from Library/Bee/artifacts/Android/libunity/armeabi-v7a/libunity.dbg.so Library/Bee/artifacts/Android/libunity/armeabi-v7a/libunity.sym.so",
@@ -18513,10 +18498,10 @@
         "Library/Bee/artifacts/Android/libunity/armeabi-v7a/libunity.sym.so"
       ],
       "ToBuildDependencies": [
-        889
+        888
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 890
+      "DebugActionIndex": 889
     },
     {
       "Annotation": "Stripping Library/Bee/artifacts/Android/libunity/armeabi-v7a/unstripped/libunity.so -> Library/Bee/artifacts/Android/libunity/armeabi-v7a/stripped/libunity.so Library/Bee/artifacts/Android/libunity/armeabi-v7a/stripped/libunity.so",
@@ -18529,10 +18514,10 @@
         "Library/Bee/artifacts/Android/libunity/armeabi-v7a/stripped/libunity.so"
       ],
       "ToBuildDependencies": [
-        888
+        887
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 891
+      "DebugActionIndex": 890
     },
     {
       "Annotation": "Adding note Library/Bee/artifacts/Android/libunity/armeabi-v7a/stripped/libunity.so -> F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libunity.so F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libunity.so",
@@ -18547,11 +18532,11 @@
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libunity.so"
       ],
       "ToBuildDependencies": [
-        890,
-        891
+        889,
+        890
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 892
+      "DebugActionIndex": 891
     },
     {
       "Annotation": "Compile UnityClassRegistration Library/Bee/artifacts/Android/libunity/arm64-v8a/UnityClassRegistration.o",
@@ -18565,10 +18550,10 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/UnityClassRegistration.o"
       ],
       "ToBuildDependencies": [
-        884
+        883
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 893
+      "DebugActionIndex": 892
     },
     {
       "Annotation": "Compile UnityICallRegistration Library/Bee/artifacts/Android/libunity/arm64-v8a/UnityICallRegistration.o",
@@ -18582,10 +18567,10 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/UnityICallRegistration.o"
       ],
       "ToBuildDependencies": [
-        886
+        885
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 894
+      "DebugActionIndex": 893
     },
     {
       "Annotation": "Link libunity Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so",
@@ -18602,11 +18587,11 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so"
       ],
       "ToBuildDependencies": [
-        893,
-        894
+        892,
+        893
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 895
+      "DebugActionIndex": 894
     },
     {
       "Annotation": "Generate Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so from Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so",
@@ -18619,10 +18604,10 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so"
       ],
       "ToBuildDependencies": [
-        895
+        894
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 896
+      "DebugActionIndex": 895
     },
     {
       "Annotation": "Generate Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.sym.so from Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.sym.so",
@@ -18635,10 +18620,10 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.sym.so"
       ],
       "ToBuildDependencies": [
-        896
+        895
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 897
+      "DebugActionIndex": 896
     },
     {
       "Annotation": "Stripping Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so -> Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so",
@@ -18651,10 +18636,10 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so"
       ],
       "ToBuildDependencies": [
-        895
+        894
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 898
+      "DebugActionIndex": 897
     },
     {
       "Annotation": "Adding note Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so -> F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libunity.so F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libunity.so",
@@ -18669,11 +18654,11 @@
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libunity.so"
       ],
       "ToBuildDependencies": [
-        897,
-        898
+        896,
+        897
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 899
+      "DebugActionIndex": 898
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/armeabi-v7a/libmain.so",
@@ -18684,7 +18669,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/armeabi-v7a/libmain.so"
       ],
-      "DebugActionIndex": 900
+      "DebugActionIndex": 899
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/armeabi-v7a/libil2cpp.so",
@@ -18698,7 +18683,7 @@
       "ToBuildDependencies": [
         376
       ],
-      "DebugActionIndex": 901
+      "DebugActionIndex": 900
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/armeabi-v7a/libunity.so",
@@ -18710,9 +18695,9 @@
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/armeabi-v7a/libunity.so"
       ],
       "ToBuildDependencies": [
-        890
+        889
       ],
-      "DebugActionIndex": 902
+      "DebugActionIndex": 901
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libmain.so",
@@ -18723,7 +18708,7 @@
       "Outputs": [
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libmain.so"
       ],
-      "DebugActionIndex": 903
+      "DebugActionIndex": 902
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libil2cpp.so",
@@ -18737,7 +18722,7 @@
       "ToBuildDependencies": [
         692
       ],
-      "DebugActionIndex": 904
+      "DebugActionIndex": 903
     },
     {
       "Annotation": "CopyFiles F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libunity.so",
@@ -18749,9 +18734,9 @@
         "F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libunity.so"
       ],
       "ToBuildDependencies": [
-        897
+        896
       ],
-      "DebugActionIndex": 905
+      "DebugActionIndex": 904
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/unity_app_guid_v16u.info",
@@ -18762,7 +18747,7 @@
         "Library/Bee/artifacts/csharpactions/unity_app_guid_v16u.info"
       ],
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 906
+      "DebugActionIndex": 905
     },
     {
       "Annotation": "GuidGenerator F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/unity_app_guid",
@@ -18791,11 +18776,11 @@
       ],
       "ToBuildDependencies": [
         61,
-        906
+        905
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 907
+      "DebugActionIndex": 906
     },
     {
       "Annotation": "Player",
@@ -18997,7 +18982,7 @@
         856,
         857,
         858,
-        859,
+        860,
         861,
         862,
         863,
@@ -19018,14 +19003,13 @@
         878,
         879,
         880,
-        881,
-        883,
-        892,
-        899,
-        907
+        882,
+        891,
+        898,
+        906
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 908
+      "DebugActionIndex": 907
     }
   ],
   "FileSignatures": [
@@ -19575,7 +19559,7 @@
   ],
         "NamedNodes": {
           "all_tundra_nodes": 0,
-          "Player": 908
+          "Player": 907
         }
 ,  "DefaultNodes": [
     0

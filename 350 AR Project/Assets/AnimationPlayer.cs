@@ -15,13 +15,15 @@ public class AnimationPlayer : MonoBehaviour
         InvokeRepeating("moveUp", 1, 3);
     }
 
+
     void moveUp()
     {
         if (!isUp)
         {
             if (Random.Range(0, 100) > 75)
             {
-                anim.Play("Armature|Spawn", 0);
+                Debug.Log("Here");
+                anim.Play("Armature|Spawn 0", 0);
                 isUp = true;
                 StartCoroutine(goDown());
             }
@@ -37,7 +39,7 @@ public class AnimationPlayer : MonoBehaviour
         yield return new WaitForSeconds(time);
         if (isUp)
         {
-            anim.Play("Armature|TimeUp", 0);
+            anim.Play("Armature|TimeUp 0", 0);
             isUp = false;
         }
     }
@@ -57,7 +59,7 @@ public class AnimationPlayer : MonoBehaviour
                 if (obj == transform.gameObject && isUp)
                 {
                     particle.Play();
-                    anim.Play("Armature|Hit", 0);
+                    anim.Play("Armature|Hit 0", 0);
                     isUp = false;
                 }
             }
