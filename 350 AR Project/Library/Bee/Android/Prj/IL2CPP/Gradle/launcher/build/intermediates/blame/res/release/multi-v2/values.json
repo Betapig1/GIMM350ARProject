@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\GIMM350ARProject\\350 AR Project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "F:\\BSU\\GIMM\\GIMM 350\\GIMM350ARProject\\350 AR Project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "D:\\GIMM350ARProject\\350 AR Project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "source": "F:\\BSU\\GIMM\\GIMM 350\\GIMM350ARProject\\350 AR Project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "2,2",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ryna\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values\\values.xml",
+                    "source": "C:\\Users\\Amy\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "D:\\GIMM350ARProject\\350 AR Project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "source": "F:\\BSU\\GIMM\\GIMM 350\\GIMM350ARProject\\350 AR Project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -48,7 +48,7 @@
                     }
                 },
                 {
-                    "source": "D:\\GIMM350ARProject\\350 AR Project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "source": "F:\\BSU\\GIMM\\GIMM 350\\GIMM350ARProject\\350 AR Project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "5,2,7",
                         "startColumns": "0,0,0",

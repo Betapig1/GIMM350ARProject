@@ -800,4 +800,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/GIMM350ARProject/350 AR Project/game.apk
+  playerPath: F:/BSU/GIMM/GIMM 350/GIMM350ARProject/350 AR Project/Wack a Mole.apk
